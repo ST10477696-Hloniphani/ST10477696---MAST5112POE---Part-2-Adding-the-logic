@@ -2,6 +2,9 @@
 
 A React Native mobile application built with Expo that provides a complete restaurant management system for private chefs. The app features dual interfaces for both chefs and customers, enabling menu management, order placement, and order tracking.
 
+## GitHub Repository link:
+https://github.com/ST10477696-Hloniphani/ST10477696---MAST5112POE---Part-2-Adding-the-logic
+
 ## Youtube link:
 https://youtu.be/7l1PHVBtnQQ?si=Zn6gHmH_7Tccnn9L
 
