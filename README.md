@@ -39,31 +39,6 @@ part2/
 └── assets/             # Images and icons
 ```
 
-## Installation & Setup
-
-1. **Prerequisites**
-   - Node.js (v16 or higher)
-   - Expo CLI: `npm install -g @expo/cli`
-   - iOS Simulator (for iOS development)
-   - Android Studio/Emulator (for Android development)
-
-2. **Install Dependencies**
-   ```bash
-   cd part2
-   npm install
-   ```
-
-3. **Start Development Server**
-   ```bash
-   npm start
-   ```
-
-4. **Run on Platforms**
-   ```bash
-   npm run ios     # iOS Simulator
-   npm run android # Android Emulator
-   npm run web     # Web browser
-   ```
 
 ## Demo Credentials
 
