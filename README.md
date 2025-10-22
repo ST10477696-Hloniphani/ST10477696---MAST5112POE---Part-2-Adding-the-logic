@@ -185,7 +185,3 @@ const DEMO_CREDENTIALS = {
 - Order status tracking
 - Chef-customer messaging
 - Analytics dashboard
-
-## License
-
-This project is private and proprietary.
