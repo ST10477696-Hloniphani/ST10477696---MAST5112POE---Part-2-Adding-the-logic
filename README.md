@@ -117,30 +117,6 @@ interface OrderItem {
 - Real-time updates across screens
 - Order grouping by customer and timestamp
 
-## Customization
-
-### Course Categories
-Modify the `courses` array to add/remove menu categories:
-```typescript
-const courses = ['Starters', 'Mains', 'Desserts', 'Beverages', 'Sides'];
-```
-
-### Styling
-The app uses a warm, restaurant-themed color palette:
-- Primary: `#8B7355` (Brown)
-- Background: `#F5F5DC` (Beige)
-- Text: `#2C2C2C` (Dark Gray)
-- Accent: `#FF6B6B` (Red for orders)
-
-### Authentication
-Update `DEMO_CREDENTIALS` object to change login details:
-```typescript
-const DEMO_CREDENTIALS = {
-  email: 'chef@christoffel.com',
-  password: 'chef123',
-  code: '2024'
-};
-```
 
 ## Development Notes
 
@@ -160,3 +136,28 @@ const DEMO_CREDENTIALS = {
 - Order status tracking
 - Chef-customer messaging
 - Analytics dashboard
+
+
+## Reference
+- Nuxt UI, n.d. Navigation Menu. [online] Available at: https://ui.nuxt.com/docs/components/navigation-menu
+ [Accessed 10 October 2025].
+
+- Stack Overflow, 2021. Subtotal function calculation only working on second click. [online] Available at: https://stackoverflow.com/questions/67296082/subtotal-function-calculation-only-working-on-second-click
+ [Accessed 10 October 2025].
+
+- Stack Overflow, 2022. Why should I use the variant prop instead of className in React Bootstrap Button? [online] Available at: https://stackoverflow.com/questions/72090947/why-should-i-use-the-variant-prop-instead-of-classname-in-react-bootstrap-button
+ [Accessed 19 October 2025].
+
+- React, n.d. JSX In Depth. [online] Available at: https://legacy.reactjs.org/docs/jsx-in-depth.html
+ [Accessed 18 October 2025].
+
+-React, n.d. Context. [online] Available at: https://legacy.reactjs.org/docs/context.html
+ [Accessed 12 October 2025].
+ 
+-Hatica, 2023. Best Practices For An Eye Catching GitHub Readme. [online] Available at: https://www.hatica.io/blog/best-practices-for-github-readme/
+ [Accessed 21 October 2025].
+ 
+- Microsoft Q&A, 2022. How to use a List of Type Interface or List<IMenuItem>. [online] Available at: https://learn.microsoft.com/en-us/answers/questions/1118129/how-to-use-a-list-of-type-interface-or-list(imenui
+ [Accessed 12 October 2025].
+
+  
